@@ -1,0 +1,10 @@
+{
+    "cocktails" :[
+  
+      {"name" : "marga", "price": 13 },
+      {"name": "bloody", "price": 8},
+      {"name": "bambi", "price": 43},
+      {"name": "coco", "price": 14}
+    
+    ] 
+  }
